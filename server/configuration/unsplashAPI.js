@@ -1,0 +1,4 @@
+module.exports = {
+    APPLICATION_ID: '4fc3997af1e0ec4737c5cbceff4516307411cd096dfd62a81c5727503523441d',
+    SECRET_KEY: '49236bade8521918df39108bd422a26fc3ecee9799442bedf75663fd1cbf2feb'
+}
