@@ -1,0 +1,18 @@
+.card{
+    box-shadow: 1px 1px 5px 1px rgba(230, 230, 230, 1);
+}
+
+.nome{
+    font-weight: lighter;
+    margin-top: 10px;
+}
+
+.lance{
+    font-weight: bold;
+    font-size: 20px;
+    margin-top: 10px;
+}
+
+.buttonsPlace{
+    margin: 20px;
+}

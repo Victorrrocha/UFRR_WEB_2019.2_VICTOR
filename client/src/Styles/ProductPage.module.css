@@ -1,0 +1,57 @@
+.wrapper{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+
+.imageDiv{
+    
+    text-align: center;
+}
+
+.image{
+   
+    margin: 20px;
+    display: inline-block;
+    max-width: 400px;
+    object-fit: contain;
+}
+
+.infoDiv{
+    display: grid;
+    grid-template-rows: 1fr 1fr 3fr;
+   
+    text-align: left;
+}
+
+.titleDiv{
+    
+    font-size: 30px;
+    font-weight: lighter;
+    
+}
+
+.precoDiv{
+    
+    font-size: 50px;
+    font-weight: bolder;
+}
+
+.allBids{
+    background-color: wheat;
+}
+
+.bidContainer{
+    box-shadow: 1px 1px 5px 1px rgba(230, 230, 230, 1);
+    background-color: white;
+    text-align: center;
+    max-width: 300px;
+    max-height: 200px;
+}
+.title{
+    margin-top: 30px;
+
+}
+
+.bidColumn{
+    margin-top: 30px;
+}

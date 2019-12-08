@@ -1,0 +1,10 @@
+.card{
+    box-shadow: 1px 1px 5px 1px rgba(230, 230, 230, 1);
+    text-align: center;
+    max-width: fit-content;
+}
+.lance{
+    display: block;
+    font-weight: bold;
+    font-size: 30px;
+}
